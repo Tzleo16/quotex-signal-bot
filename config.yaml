@@ -1,0 +1,9 @@
+telegram_token: "7648317640:AAF7V9VaGuueQnkVwYB-eUnITPp3tOgDvxA"
+chat_id: "7648317640"          # grupo ou canal
+symbols: ["EURUSD", "GBPUSD"]
+timeframe: "1"             # M1
+rsi_length: 14
+rsi_high: 70
+rsi_low: 30
+martingale_levels: 2
+check_interval_sec: 20
